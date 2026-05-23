@@ -3,7 +3,7 @@
 I'm Gabriel, a Senior Full-Stack Engineer focused on building robust architectures and delivering solutions that actually make a real-world impact. I love the balance between designing resilient backends and crafting smooth frontends, always keeping **clean code** and sustainable software patterns as a priority.
 
 ### 🚀 What I do
-*   **Building & Scaling:** I thrive in mission-critical environments. Fun fact: during the pandemic, I designed, developed, and shipped a highly critical strategic project from scratch in just *one month*—which became an internal reference for the team, check it out: <a href="https://www.linkedin.com/in/gabriel-luis-mendes/](https://www.linkedin.com/pulse/pr%C3%B3xima-vez-que-lhe-perguntarem-sobre-30-dias-jo%C3%A3o-pedro-ermel/?trackingId=m4U5bHuYRHyfqNIlukMauw%3D%3D" target="_blank">
+*   **Building & Scaling:** I thrive in mission-critical environments. Fun fact: during the pandemic, I designed, developed, and shipped a highly critical strategic project from scratch in just *one month*—which became an internal reference for the team, check it out: <a href="https://www.linkedin.com/pulse/pr%C3%B3xima-vez-que-lhe-perguntarem-sobre-30-dias-jo%C3%A3o-pedro-ermel/?trackingId=m4U5bHuYRHyfqNIlukMauw%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Article">
 </a>
 *   **Team & Culture:** I'm a huge advocate for strong communication and leadership. You'll often find me mentoring new teammates, unblocking complex problems, and sharing knowledge.
