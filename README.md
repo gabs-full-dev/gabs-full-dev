@@ -8,11 +8,15 @@ I'm Gabriel, a Senior Full-Stack Engineer focused on building robust architectur
 *   **Getting Things Done:** I'm used to juggling multiple strategic features simultaneously, ensuring technical decisions always align with product needs and process optimization.
 
 ### 💻 My Toolbox
-I work with flexibility, always picking the right tool to build high-performance systems. Right now, my stack looks like this:
 
-*   **Languages:** TypeScript, Node.js, Java
-*   **Frontend:** React, Next, Angular
-*   **Backend & Data:** Spring Boot, Express, Prisma, Kafka
+**Languages:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**Backend & Data:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### 🤝 Let's Connect
 Always down to talk about software architecture, clean code, or how well-aligned teams build the best products. 
