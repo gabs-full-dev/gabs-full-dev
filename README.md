@@ -31,3 +31,6 @@ Always down to talk about software architecture, clean code, or how well-aligned
 <a href="https://www.linkedin.com/in/gabriel-luis-mendes/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="mailto:gabsfulldev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-gabsfulldev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
